@@ -1,0 +1,9 @@
+selenium
+webdriver-manager
+python-dotenv
+requests
+python-docx
+pdfplumber
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib

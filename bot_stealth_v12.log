@@ -1,0 +1,108 @@
+2025-12-22 15:04:30,622 [INFO] ✓ Database inițializat
+2025-12-22 15:04:30,707 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-12-22 15:04:30,726 [INFO] ✓ Google Drive Service conectat
+2025-12-22 15:04:30,727 [INFO] ======================================================================
+2025-12-22 15:04:30,727 [INFO] 🤖 FACEBOOK BOT v12.1 - NO TIME LIMITS
+2025-12-22 15:04:30,728 [INFO] ======================================================================
+2025-12-22 15:04:30,728 [WARNING] ⚠️ Fără Proxy (risc de IP ban)
+2025-12-22 15:04:30,729 [INFO] ✓ Configurare validată
+2025-12-22 15:04:30,730 [INFO] 
+======================================================================
+2025-12-22 15:04:30,731 [INFO] 📥 SINCRONIZARE DATE
+2025-12-22 15:04:30,731 [INFO] ======================================================================
+2025-12-22 15:04:30,732 [INFO] 📥 Încep sincronizarea fișierelor din Drive...
+2025-12-22 15:04:32,122 [WARNING] Encountered 403 Forbidden with reason "fileNotDownloadable"
+2025-12-22 15:04:32,122 [ERROR] ❌ Eroare la descărcarea ID 1YPJuhlltC8CBExMCDdSZqTA9Jddu_oezLQqLpGFoqyA: <HttpError 403 when requesting https://www.googleapis.com/drive/v3/files/1YPJuhlltC8CBExMCDdSZqTA9Jddu_oezLQqLpGFoqyA?alt=media returned "Only files with binary content can be downloaded. Use Export with Docs Editors files.". Details: "[{'message': 'Only files with binary content can be downloaded. Use Export with Docs Editors files.', 'domain': 'global', 'reason': 'fileNotDownloadable', 'location': 'alt', 'locationType': 'parameter'}]">
+2025-12-22 15:04:34,518 [INFO] ✓ Descărcat cu succes: ./temp_downloads\groups_list.pdf
+2025-12-22 15:04:38,753 [INFO] ✓ Găsite 369 nume de grupuri în PDF
+2025-12-22 15:04:38,753 [INFO]    Exemple: ['Romania & Diaspora Anunturi 410.000 19. Bazar Romania Bucuresti', 'Romania & Diaspora Grup 260.000 20. Romania Anunțuri Mixte', 'Vama Nadlac Oficial 255.000 21. Romania Afaceri Online']
+2025-12-22 15:04:38,755 [INFO] 🎱 Pool activ de grupuri: 150 (limitat la 150)
+2025-12-22 15:04:38,765 [INFO] 
+📋 PLAN ZILNIC (Start: 0 -> Next: 70):
+2025-12-22 15:04:38,767 [INFO]    Link: https://www.facebook.com/photo?fbid=1200506005443468&set=a.250235313803880
+2025-12-22 15:04:38,767 [INFO]    Grupuri selectate: 70
+2025-12-22 15:04:38,767 [INFO] 
+🚀 INIȚIALIZARE BOT...
+2025-12-22 15:04:38,825 [INFO] 🎭 Profile Spoof: Windows | Win32
+2025-12-22 15:04:40,078 [INFO] patching driver executable C:\Users\negib\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-22 15:04:47,337 [INFO] ✓ Stealth JS injectat.
+2025-12-22 15:04:47,337 [INFO] ✓ Driver init (Window: 1520x984)
+2025-12-22 15:04:47,339 [INFO] 🔍 Verific starea sesiunii (Deep Check)...
+2025-12-22 15:05:02,361 [INFO] ✓ Sesiune activă confirmată (Selector: //div[@role='banner'])
+2025-12-22 15:05:02,361 [INFO] 🔥 Warmup start...
+2025-12-22 15:05:16,541 [INFO] ✓ Warmup finalizat
+2025-12-22 15:05:16,541 [INFO] 🔄 Verific profilul curent vs. Pagina dorită: 'Promovare Online'
+2025-12-22 15:05:16,588 [INFO] ✅ SUNT DEJA PE PAGINA: Promovare Online. Nu fac switch.
+2025-12-22 15:05:16,589 [INFO] 
+======================================================================
+2025-12-22 15:05:16,590 [INFO] 📤 START PROCESARE GRUPURI (24/7 MODE)
+2025-12-22 15:05:16,591 [INFO] ======================================================================
+2025-12-22 15:05:16,679 [INFO] 
+[1/70] 📤 PROCESARE: Romania & Diaspora Anunturi 410.000 19. Bazar Romania Bucuresti
+2025-12-22 15:05:16,680 [INFO] 🚀 Procesez grupul: 'Romania & Diaspora Anunturi 410.000 19. Bazar Romania Bucuresti'
+2025-12-22 15:05:23,784 [ERROR] ❌ Butonul 'Distribuie' nu a fost găsit.
+2025-12-22 15:05:23,784 [WARNING] ⛔ Eroare irecuperabilă (SHARE_BTN_NOT_FOUND). Nu mai încerc din nou.
+2025-12-22 15:05:23,796 [ERROR] ❌ EȘUAT: SHARE_BTN_NOT_FOUND
+2025-12-22 15:05:53,857 [INFO] 
+[2/70] 📤 PROCESARE: Romania & Diaspora Grup 260.000 20. Romania Anunțuri Mixte
+2025-12-22 15:05:53,859 [INFO] 🚀 Procesez grupul: 'Romania & Diaspora Grup 260.000 20. Romania Anunțuri Mixte'
+2025-12-22 15:06:00,320 [ERROR] ❌ Butonul 'Distribuie' nu a fost găsit.
+2025-12-22 15:06:00,321 [WARNING] ⛔ Eroare irecuperabilă (SHARE_BTN_NOT_FOUND). Nu mai încerc din nou.
+2025-12-22 15:06:00,332 [ERROR] ❌ EȘUAT: SHARE_BTN_NOT_FOUND
+2025-12-22 15:06:29,335 [INFO] 
+🛑 Oprire manuală
+2025-12-22 15:06:29,337 [INFO] 🔚 Bot oprit
+2025-12-22 15:08:04,615 [INFO] ✓ Database inițializat
+2025-12-22 15:08:04,692 [INFO] file_cache is only supported with oauth2client<4.0.0
+2025-12-22 15:08:04,725 [INFO] ✓ Google Drive Service conectat
+2025-12-22 15:08:04,725 [INFO] ======================================================================
+2025-12-22 15:08:04,725 [INFO] 🤖 FACEBOOK BOT v12.1 - NO TIME LIMITS
+2025-12-22 15:08:04,725 [INFO] ======================================================================
+2025-12-22 15:08:04,725 [WARNING] ⚠️ Fără Proxy (risc de IP ban)
+2025-12-22 15:08:04,725 [INFO] ✓ Configurare validată
+2025-12-22 15:08:04,725 [INFO] 
+======================================================================
+2025-12-22 15:08:04,725 [INFO] 📥 SINCRONIZARE DATE
+2025-12-22 15:08:04,725 [INFO] ======================================================================
+2025-12-22 15:08:04,734 [INFO] 📥 Încep sincronizarea fișierelor din Drive...
+2025-12-22 15:08:05,986 [WARNING] Encountered 403 Forbidden with reason "fileNotDownloadable"
+2025-12-22 15:08:05,986 [ERROR] ❌ Eroare la descărcarea ID 1YPJuhlltC8CBExMCDdSZqTA9Jddu_oezLQqLpGFoqyA: <HttpError 403 when requesting https://www.googleapis.com/drive/v3/files/1YPJuhlltC8CBExMCDdSZqTA9Jddu_oezLQqLpGFoqyA?alt=media returned "Only files with binary content can be downloaded. Use Export with Docs Editors files.". Details: "[{'message': 'Only files with binary content can be downloaded. Use Export with Docs Editors files.', 'domain': 'global', 'reason': 'fileNotDownloadable', 'location': 'alt', 'locationType': 'parameter'}]">
+2025-12-22 15:08:08,524 [INFO] ✓ Descărcat cu succes: ./temp_downloads\groups_list.pdf
+2025-12-22 15:08:14,618 [INFO] ✓ Găsite 369 nume de grupuri în PDF
+2025-12-22 15:08:14,618 [INFO]    Exemple: ['Romania & Diaspora Anunturi 410.000 19. Bazar Romania Bucuresti', 'Romania & Diaspora Grup 260.000 20. Romania Anunțuri Mixte', 'Vama Nadlac Oficial 255.000 21. Romania Afaceri Online']
+2025-12-22 15:08:14,618 [INFO] 🎱 Pool activ de grupuri: 150 (limitat la 150)
+2025-12-22 15:08:14,634 [INFO] 
+📋 PLAN ZILNIC (Start: 70 -> Next: 140):
+2025-12-22 15:08:14,635 [INFO]    Link: https://www.facebook.com/photo?fbid=1200506005443468&set=a.250235313803880
+2025-12-22 15:08:14,636 [INFO]    Grupuri selectate: 70
+2025-12-22 15:08:14,637 [INFO] 
+🚀 INIȚIALIZARE BOT...
+2025-12-22 15:08:14,730 [INFO] 🎭 Profile Spoof: Windows | Win32
+2025-12-22 15:08:15,837 [INFO] patching driver executable C:\Users\negib\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-22 15:08:24,282 [INFO] ✓ Stealth JS injectat.
+2025-12-22 15:08:24,282 [INFO] ✓ Driver init (Window: 1525x827)
+2025-12-22 15:08:24,282 [INFO] 🔍 Verific starea sesiunii (Deep Check)...
+2025-12-22 15:08:39,556 [INFO] ✓ Sesiune activă confirmată (Selector: //div[@role='banner'])
+2025-12-22 15:08:39,556 [INFO] 🔥 Warmup start...
+2025-12-22 15:08:54,567 [INFO] ✓ Warmup finalizat
+2025-12-22 15:08:54,567 [INFO] 🔄 Verific profilul curent vs. Pagina dorită: 'Promovare Online'
+2025-12-22 15:08:54,638 [INFO] ✅ SUNT DEJA PE PAGINA: Promovare Online. Nu fac switch.
+2025-12-22 15:08:54,638 [INFO] 
+======================================================================
+2025-12-22 15:08:54,640 [INFO] 📤 START PROCESARE GRUPURI (24/7 MODE)
+2025-12-22 15:08:54,640 [INFO] ======================================================================
+2025-12-22 15:08:54,712 [INFO] 
+[1/70] 📤 PROCESARE: Romania Anunțuri Gratuite 31.000 158. Socializare & Publicitate
+2025-12-22 15:08:54,713 [INFO] 🚀 Procesez grupul: 'Romania Anunțuri Gratuite 31.000 158. Socializare & Publicitate'
+2025-12-22 15:09:02,100 [ERROR] ❌ Butonul 'Distribuie' nu a fost găsit.
+2025-12-22 15:09:02,100 [WARNING] ⛔ Eroare irecuperabilă (SHARE_BTN_NOT_FOUND). Nu mai încerc din nou.
+2025-12-22 15:09:02,127 [ERROR] ❌ EȘUAT: SHARE_BTN_NOT_FOUND
+2025-12-22 15:09:32,185 [INFO] 
+[2/70] 📤 PROCESARE: Mamici in Londra - UK 31.000 159. Bucuresti Anunturi Online
+2025-12-22 15:09:32,185 [INFO] 🚀 Procesez grupul: 'Mamici in Londra - UK 31.000 159. Bucuresti Anunturi Online'
+2025-12-22 15:09:37,538 [ERROR] ❌ Butonul 'Distribuie' nu a fost găsit.
+2025-12-22 15:09:37,538 [WARNING] ⛔ Eroare irecuperabilă (SHARE_BTN_NOT_FOUND). Nu mai încerc din nou.
+2025-12-22 15:09:37,554 [ERROR] ❌ EȘUAT: SHARE_BTN_NOT_FOUND
+2025-12-22 15:10:07,353 [INFO] 
+🛑 Oprire manuală
+2025-12-22 15:10:07,353 [INFO] 🔚 Bot oprit
