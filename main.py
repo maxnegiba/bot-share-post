@@ -79,7 +79,7 @@ class Config:
     # Botul va rula continuu in limitele zilnice
     
     DAILY_GROUP_LIMIT = int(os.getenv('DAILY_GROUP_LIMIT', 40))
-    MAX_GROUPS_POOL = 150
+    MAX_GROUPS_POOL = int(os.getenv('MAX_GROUPS_POOL', 150))
     DELAY_MIN_SEC = int(os.getenv('DELAY_MIN_SEC', 180))
     DELAY_MAX_SEC = int(os.getenv('DELAY_MAX_SEC', 400))
     DO_WARMUP = os.getenv('DO_WARMUP', 'True').lower() == 'true'
